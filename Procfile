@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath app familymart.wsgi 
+web: gunicorn --pythonpath app/familymart familymart.wsgi 
 
