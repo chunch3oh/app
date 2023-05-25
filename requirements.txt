@@ -20,7 +20,7 @@ chardet==3.0.4
 charset-normalizer==2.0.12
 Click==7.0
 clip-client==0.4.12
-cloud-init==21.4
+cloud-init==23.1
 colorama==0.4.3
 command-not-found==0.3
 commonmark==0.9.1
