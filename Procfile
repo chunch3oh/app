@@ -1,1 +1,2 @@
-web: gunicorn --pythonpath mysite mysite.wsgi --log-file -
+web: gunicorn --pythonpath familymart familymart.wsgi --log-file -
+
