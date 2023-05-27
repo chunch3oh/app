@@ -1,1 +1,1 @@
-web: gunicorn familymart.wsgi
+web: gunicorn familymart.wsgi:application
